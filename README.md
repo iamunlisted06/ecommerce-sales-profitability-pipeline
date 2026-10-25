@@ -1,38 +1,38 @@
-# \# E-Commerce Sales \& Profitability Data Pipeline
+##### \# E-Commerce Sales \& Profitability Data Pipeline
 
-# 
+##### 
 
-# An end-to-end data analytics project processing e-commerce transactions using Python (Pandas), modeling insights in SQLite, and visualizing key performance metrics in Power BI.
+##### An end-to-end data analytics project processing e-commerce transactions using Python (Pandas), modeling insights in SQLite, and visualizing key performance metrics in Power BI.
 
-# 
+##### 
 
-# \## 📌 Dashboard Preview
+##### \## 📌 Dashboard Preview
 
-# !\[Dashboard Preview](dashboard\_preview.png)
+##### !\[Dashboard Preview](dashboard\_preview.png)
 
-# 
+##### 
 
-# \## 🛠️ Tech Stack \& Workflow
+##### \## 🛠️ Tech Stack \& Workflow
 
-# \- \*\*Data Cleaning \& Quantile Tiering:\*\* Python (Pandas)
+##### \- \*\*Data Cleaning \& Quantile Tiering:\*\* Python (Pandas)
 
-# \- \*\*Relational Data Modeling:\*\* SQLite
+##### \- \*\*Relational Data Modeling:\*\* SQLite
 
-# \- \*\*Business Intelligence \& Reporting:\*\* Power BI Desktop
+##### \- \*\*Business Intelligence \& Reporting:\*\* Power BI Desktop
 
-# 
+##### 
 
-# \## 📊 Key Findings
+##### \## 📊 Key Findings
 
-# \- \*\*Revenue Driver:\*\* Top Performers account for 88.7% ($2.04M) of overall sales ($2.30M).
+##### \- \*\*Revenue Driver:\*\* Top Performers account for 88.7% ($2.04M) of overall sales ($2.30M).
 
-# \- \*\*Profit Leakage:\*\* Identified high-volume items (such as the Cubify CubeX 3D Printer) operating at significant net losses (-$8,879.97) due to margin and discounting structures.
+##### \- \*\*Profit Leakage:\*\* Identified high-volume items (such as the Cubify CubeX 3D Printer) operating at significant net losses (-$8,879.97) due to margin and discounting structures.
 
-# 
+##### 
 
-# \## 📜 License \& Data Source
+##### \## 📜 License \& Data Source
 
-# \- \*\*License:\*\* MIT License
+##### \- \*\*License:\*\* MIT License
 
-# \- \*\*Dataset:\*\* Sample - Superstore (Tableau Public / Kaggle)
+##### \- \*\*Dataset:\*\* Sample - Superstore (Tableau Public / Kaggle)
 
